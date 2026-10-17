@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Sweeper" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>
